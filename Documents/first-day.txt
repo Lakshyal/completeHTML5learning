@@ -1,0 +1,12 @@
+HTML-Need
+What is HTML?
+Exercise Sample code
+Case-insensitivity
+Tryout:Case-insensitivity
+Platform-independency
+DOCTYPE Declaration
+Tryout: Document Structure
+Types of Elements---  ie... CONTAINERS ELEMENTS and EMPTY ELEMENTS.
+
+
+
